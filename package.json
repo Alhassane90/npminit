@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alhassane90/npminit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alhassane90/npminit/issues"
+  },
+  "homepage": "https://github.com/Alhassane90/npminit#readme",
+  "dependencies": {
+    "sass": "^1.69.2"
+  }
+}
